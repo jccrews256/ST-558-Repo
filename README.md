@@ -1,2 +1,2 @@
-# ST-558-Repo
-Just a repo for this class. I'll store a few notebooks here. 
+# ST-554HW4
+Repo for homework 4 in ST 554
